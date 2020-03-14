@@ -1,0 +1,7 @@
+server:
+     port: 8081
+
+
+user:
+    uid: 101
+    uname: bhujatha
